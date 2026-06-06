@@ -32,8 +32,8 @@ To run for a specific year:
 ```
 
 ## What I learned
+The hardest part was understanding how the tools fit together. Coming from a GUI-based ESRI workflow, I kept confusing the text editor (VS Code) with the terminal (Git Bash), but it clicked when I realized VS Code is just where you write, and Git Bash is where you run. I also ran into a working directory issue where Git Bash was executing the original starter file instead of my edited version, which taught me to always verify your path before running a script. Realizing how central GDAL is to the entire open source geospatial stack — powering QGIS, GeoPandas, and this pipeline all at once — made everything feel more connected and worth learning.
 
-[Two or three sentences. Be specific. What was harder than expected? What would you do differently? This is the part hiring managers actually read.]
 
 ## Stack
 
